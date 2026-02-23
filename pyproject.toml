@@ -1,0 +1,20 @@
+[project]
+name = "professional-rag-assistant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cohere>=5.20.5",
+    "datasets>=4.5.0",
+    "langchain>=1.2.10",
+    "langchain-cohere>=0.5.0",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.8",
+    "langchain-pinecone>=0.2.13",
+    "pinecone-client>=6.0.0",
+    "pypdf>=6.7.0",
+    "python-dotenv>=1.2.1",
+    "ragas>=0.4.3",
+    "streamlit>=1.54.0",
+]
