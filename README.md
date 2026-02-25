@@ -60,7 +60,7 @@ This project is designed to run locally using Python and environment variables f
 You can either use uv or pip.
 
 ### 1. Clone the repository
-- git clone https://github.com/GraciousWeb/professional_RAG_assistant.git
+- git clone https://github.com/GraciousWeb/professional_RAG_assistant.git 
 - cd professional_RAG_assistant
 
 ### 2. Create and activate a virtual environment (recommended)
